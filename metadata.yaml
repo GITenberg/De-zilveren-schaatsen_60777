@@ -1,0 +1,59 @@
+_repo: De-zilveren-schaatsen_60777
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Sluijters, Jan
+    aliases:
+    - Sluyters, Jan
+    - Sluijters, Johannes Carolus Bernardus
+    birthdate: 1881
+    deathdate: 1957
+    gutenberg_agent_id: '8316'
+    url: http://www.gutenberg.org/2009/agents/8316
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Jan_Sluijters
+    - https://en.wikipedia.org/wiki/Jan_Sluyters
+  - agent_name: Braakensiek, Joh. (Johan Coenraad)
+    alias: Braakensiek, Johan Coenraad
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '6460'
+    url: http://www.gutenberg.org/2009/agents/6460
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Johan_Braakensiek
+    - https://en.wikipedia.org/wiki/Johan_Braakensiek
+creator:
+  authors:
+  - agent_name: Dodge, Mary Mapes
+    alias: Dodge, M. E. (Mary Elizabeth)
+    birthdate: 1830
+    deathdate: 1905
+    gutenberg_agent_id: '402'
+    url: http://www.gutenberg.org/2009/agents/402
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Mapes_Dodge
+  - agent_name: Andriessen, P. J. (Pieter Jacob)
+    aliases:
+    - Andriessen, Pieter Jacob
+    - Andriesen, P. J. (Pieter Jacob)
+    birthdate: 1815
+    deathdate: 1877
+    gutenberg_agent_id: '9271'
+    url: http://www.gutenberg.org/2009/agents/9271
+    wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=andr018
+description: ''
+gutenberg_issued: '2019-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60777'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Skating -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Netherlands -- History -- 19th century -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: De zilveren schaatsen
+url: http://www.gutenberg.org/ebooks/60777
