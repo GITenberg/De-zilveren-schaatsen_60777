@@ -1,5 +1,5 @@
 _repo: De-zilveren-schaatsen_60777
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Sluijters, Jan
@@ -22,6 +22,9 @@ contributor:
     wikipedia:
     - https://nl.wikipedia.org/wiki/Johan_Braakensiek
     - https://en.wikipedia.org/wiki/Johan_Braakensiek
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Dodge, Mary Mapes
@@ -41,6 +44,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9271
     wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=andr018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60777#De-zilveren-schaatsen
 gutenberg_issued: '2019-11-24'
 gutenberg_type: Text
 identifiers:
